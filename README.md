@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mawunya3
+- 👋 Hi, I’m @Mawunya
 - 👀 I’m interested in Building Projects to solve educational problems
 - 🌱 I’m currently learning Python and Flutter
 - 💞️ I’m looking to collaborate with other developers
